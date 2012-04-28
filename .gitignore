@@ -1,4 +1,7 @@
 bin
 gen
 res/raw/available_servers.json
-
+.idea*
+*.iml
+out/
+.idea/
